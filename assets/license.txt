@@ -1,0 +1,11 @@
+Model Information:
+* title:	1950's Spam
+* source:	https://sketchfab.com/3d-models/1950s-spam-4898bb8d32f34145a35bc3fee3a9cdc1
+* author:	bennyrizzo (https://sketchfab.com/bennyrizzo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1950's Spam" (https://sketchfab.com/3d-models/1950s-spam-4898bb8d32f34145a35bc3fee3a9cdc1) by bennyrizzo (https://sketchfab.com/bennyrizzo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
